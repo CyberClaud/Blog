@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono+&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Page!;I'm+Claudio+Pe%C3%B1a-Alvarez)](https://git.io/typing-svg)
+
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
