@@ -1,6 +1,4 @@
-<center>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono+&size=25&duration=3500&pause=500&color=FF8C00&center=true&vCenter=true&width=500&height=100&lines=Welcome+to+my+GitHub+Page!;I'm+Claudio+Pe%C3%B1a-Alvarez)](https://git.io/typing-svg)
-</center>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono+&size=25&duration=3500&pause=500&color=FF8C00&width=500&height=100&lines=Welcome+to+my+GitHub+Page!;I'm+Claudio+Pe%C3%B1a-Alvarez)](https://git.io/typing-svg)
 
 Welcome to my blog! Here, I will take you on a journey through my passion for technology. This space is dedicated to documenting the various projects I’ve worked on, covering areas like coding, cybersecurity, IT, networking, and more. As I delve into increasingly complex projects, my skills and knowledge will continue to grow and evolve.
 
